@@ -1,0 +1,8 @@
+name = input("Hey user, what is your name? ")
+print("I want to know five things in your routine in order from first to last ")
+first = input("What's the first thing you do? ")
+second = input("And the second? ")
+third = input("Third? ")
+fourth= input ("And the fourth? ")
+fifth = input("What about the fifth? ")
+print (f"Okay {name}, so five things in your routine are {first}, {second}, {third}, {fourth} and {fifth}!")
